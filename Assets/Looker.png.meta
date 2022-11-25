@@ -426,8 +426,8 @@ TextureImporter:
       name: PlayerUp3
       rect:
         serializedVersion: 2
-        x: 132
-        y: 4
+        x: 142
+        y: 2
         width: 38
         height: 50
       alignment: 0
